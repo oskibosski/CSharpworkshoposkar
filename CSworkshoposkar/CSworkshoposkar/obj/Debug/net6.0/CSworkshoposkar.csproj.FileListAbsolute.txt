@@ -1,0 +1,15 @@
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\bin\Debug\net6.0\CSworkshoposkar.exe
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\bin\Debug\net6.0\CSworkshoposkar.deps.json
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\bin\Debug\net6.0\CSworkshoposkar.runtimeconfig.json
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\bin\Debug\net6.0\CSworkshoposkar.dll
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\bin\Debug\net6.0\CSworkshoposkar.pdb
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.csproj.AssemblyReference.cache
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.AssemblyInfoInputs.cache
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.AssemblyInfo.cs
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.csproj.CoreCompileInputs.cache
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.dll
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\refint\CSworkshoposkar.dll
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.pdb
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\CSworkshoposkar.genruntimeconfig.cache
+C:\Users\22000739\Documents\GitHub\CSharpworkshoposkar\CSworkshoposkar\CSworkshoposkar\obj\Debug\net6.0\ref\CSworkshoposkar.dll
